@@ -1,0 +1,31 @@
+.Login {
+  height: 1080px;
+  width: 1920px;
+}
+
+
+.Login-box{
+  position: absolute;
+  width: 600px;
+  left: 8%;
+  top: 25%;
+  padding-top: 500 px;
+  border: 0px solid #ccc;
+    /* box-shadow: rgb(220, 220, 220) 0px 2px 5px;
+    border-radius: 10px; */
+}
+.background-drone {
+  transform: rotate(-20deg);
+}
+.Form .Item{ 
+  margin-bottom: 4;
+}
+.background {
+  position: absolute;
+  right: 0px;
+  bottom: -25%;
+}
+.ant-form {
+  margin-top: 50px;
+  width: 500px;
+}
